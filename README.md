@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&reversal=false&textBg=false&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45"/>
+<picture>
+  <!-- Dark Mode: White text over random gradient -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=FFFFFF&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45">
+  <!-- Light Mode: Dark text over random gradient -->
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=111827&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45">
+  <!-- Fallback -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=FFFFFF&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45" alt="Mahmoud Al-Didamoni">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Building+modern+production-grade+Android+applications;Kotlin+%E2%80%A2+Java+%E2%80%A2+KMP+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Clean+Architecture+%E2%80%A2+MVVM%2FMVI;Passionate+about+leveraging+AI+tools+and+IoT+technologies;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
