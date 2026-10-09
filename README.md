@@ -28,6 +28,17 @@ With 3+ years in Android development, mostly working with **Kotlin**, **Java**, 
 
 </div>
 
+## 🚀 Featured Projects
+
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=didamoni&layout=compact&hide_border=true&theme=tokyonight&hide=html" alt="Top Languages" />
+
+🏥 **[MyCareShield](https://play.google.com/store/apps/details?id=com.mycareshield.android)**: Healthcare and safety platform with real-time emergency tools &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-161b22?style=flat&logo=googleplay&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.mycareshield.android)<br/>
+🚗 **[Tawseell](https://play.google.com/store/apps/details?id=com.vall.tawseel.app)**: Dual-app ride-hailing platform with real-time driver tracking &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-161b22?style=flat&logo=googleplay&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.vall.tawseel.app)<br/>
+🤖 **[Wall-iE](https://play.google.com/store/apps/details?id=com.codeslu.wall_ie)**: AI study assistant and voice chatbot with speech transcription &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-161b22?style=flat&logo=googleplay&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.codeslu.wall_ie)<br/>
+💬 **[Persona IM](https://github.com/didamoni/persona-im)**: Real-world implementation of the in-game chat in Persona 5 &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=white)](https://github.com/didamoni/persona-im)<br/>
+💻 **[Pyramide](https://codeslu.com/ar/portfolio/68795771e91b07cfb92bbf27)**: Mobile code editor and IDE with syntax support and file tree &nbsp; [![Codeslu](https://img.shields.io/badge/Codeslu-161b22?style=flat&logo=android&logoColor=38BDF8)](https://codeslu.com/ar/portfolio/68795771e91b07cfb92bbf27)<br/>
+🏠 **[Manzil](https://www.youtube.com/watch?v=VsKFeJ8I23o)**: Smart home automation platform combining mobile, cloud, and IoT &nbsp; [![Demo](https://img.shields.io/badge/YouTube_Demo-161b22?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/watch?v=VsKFeJ8I23o)
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -76,7 +87,7 @@ With 3+ years in Android development, mostly working with **Kotlin**, **Java**, 
 
 ### Thanks for visiting my profile!
 
-Whether you want to talk Android, share an interesting idea, collaborate on something, or say hi, feel free to reach out. 
+Whether you want to talk Android, share an interesting idea, collaborate on something, or say hi, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-al-didamoni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudaldidamoni@gmail.com)
