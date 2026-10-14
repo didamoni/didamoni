@@ -2,29 +2,30 @@
 
 <picture>
   <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=F8FAFC&fontSize=64&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=F8FAFC&fontSize=64&animation=fadeIn&desc=Software%20Engineer%20|%20Android%20Developer%20|%20Mobile%20App%20Developer&descSize=22&descAlignY=65&fontAlignY=45">
   <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=0F172A&fontSize=64&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=0F172A&fontSize=64&animation=fadeIn&desc=Software%20Engineer%20|%20Android%20Developer%20|%20Mobile%20App%20Developer&descSize=22&descAlignY=65&fontAlignY=45">
   <!-- Fallback -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=F8FAFC&fontSize=64&animation=fadeIn&desc=SWE%20|%20Mobile%20App%20Developer%20|%20Android%20|%20KMP&descSize=22&descAlignY=65&fontAlignY=45" alt="Mahmoud Al-Didamoni">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Mahmoud%20Al-Didamoni&fontColor=F8FAFC&fontSize=64&animation=fadeIn&desc=Software%20Engineer%20|%20Android%20Developer%20|%20Mobile%20App%20Developer&descSize=22&descAlignY=65&fontAlignY=45" alt="Mahmoud Al-Didamoni">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Building+modern+production-grade+Android+applications;Kotlin+%E2%80%A2+Java+%E2%80%A2+KMP+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Clean+Architecture+%E2%80%A2+MVVM%2FMVI;Passionate+about+leveraging+AI+tools+and+IoT+technologies;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 </div>
 
-
 ## 👨‍💻 About Me
 
 <div align="center">
 
-Hi! 👋 I'm Mahmoud, an Android engineer from Egypt who enjoys turning ideas into apps and spending way too much time making things work *just right*.
+Hi! 👋 I'm Mahmoud, a Software Engineer and Android Developer who enjoys turning ideas into apps and spending way too much time making things work *just right*.
 
-With 3+ years in Android development, mostly working with **Kotlin**, **Java**, **Jetpack Compose**, **MVVM/MVI**, and **Clean architecture**, I've had the chance to contribute to apps across healthcare, ride-hailing, productivity, and messaging. One of the latest projects I've worked on is *[MyCareShield](https://play.google.com/store/apps/details?id=com.mycareshield.android)*, a healthcare & safety app that has reached 5K+ downloads on Google Play.
+With **3+ years of experience** architecting and shipping production-grade mobile apps across healthcare, ride-hailing, AI, and consumer-facing domains, my technical expertise centers on **Kotlin**, **Java**, **Jetpack Compose**, **KMP**, **MVVM/MVI**, and **Clean Architecture**, spanning both modern declarative UI and enterprise XML Views.
 
 🧠 I'm also the kind of developer who enjoys going down random technical rabbit holes, figuring out how things work under the hood, experimenting with new APIs and UI ideas, or trying something simply because it sounds interesting.
 
-🔭 Currently diving deeper into **KMP**, while continuing to explore **AI** and **IoT** alongside mobile development.
+🎓 Backed by a **B.Sc. in Computer and Systems Engineering**, with a strong focus on **AI** and **IoT** embedded systems.
+
+🔭 Currently expanding into **Kotlin Multiplatform (KMP)** and backend engineering with **Spring Boot**.
 
 </div>
 
